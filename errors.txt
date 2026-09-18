@@ -1,0 +1,8 @@
+  File "/home/adminlina/./errors.py", line 2
+    print("Hello"
+         ^
+SyntaxError: '(' was never closed
+  File "/home/adminlina/./errors.py", line 2
+    print("Hello"
+         ^
+SyntaxError: '(' was never closed
